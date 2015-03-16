@@ -1,3 +1,0 @@
-[
-{"url": "https://raw.githubusercontent.com/anees96/playlists/master/Jason%20White.m3u", "name": "[COLOR green]SPORTS[/COLOR]"},
-]
