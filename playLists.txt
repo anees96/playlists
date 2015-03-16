@@ -1,4 +1,3 @@
 [
 {"url": "https://raw.githubusercontent.com/anees96/playlists/master/Jasonwhite.m3u", "name": "[COLOR yellow]Sports[/COLOR]"},
-
 ]
