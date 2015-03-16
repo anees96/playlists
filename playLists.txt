@@ -1,5 +1,4 @@
 [
-{"url": "https://raw.githubusercontent.com/anees96/playlists/master/Jasonwhite.m3u", "name": "[COLOR yellow]Annual Subscription: 16th March 2016[/COLOR]"},
-{"url": "https://raw.githubusercontent.com/anees96/playlists/master/Jasonwhite.m3u", "name": "[COLOR red]Sports[/COLOR]"}
+{"url": "https://raw.githubusercontent.com/anees96/playlists/master/Jasonwhite.m3u", "name": "[COLOR red]SPORTS[/COLOR]"}
 ]
 
