@@ -22,7 +22,7 @@ rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash
 rtmp://80.82.64.140:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH
 
 #EXTINF:0,SKY SPORTS F1 HD
-rtmp://178.18.31.56:443/liverepeater playpath=191293  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191293&width=620&height=490 token=#atd%#$ZH
+rtmp://80.82.78.15:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
 
 #EXTINF:0,SKY SPORTS NEWS HD
 http://198.27.94.105/hls/skysportsnews____0.m3u8
@@ -128,22 +128,22 @@ rtmp://80.82.78.29:443/liverepeater playpath=32  swfUrl=http://popeoftheplayers.
 rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
 
 #EXTINF:0,ASTRO SUPERSPORT 1
-
+http://stream.ssh101.com/hls/nomoretears.m3u8
 
 #EXTINF:0,ASTRO SUPERSPORT 2
+http://stream.ssh101.com/hls/tipkek.m3u8
 
+#EXTINF:0,SILK SPORT 1
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
 
-#EXTINF:0,SPORTSNET 1
+#EXTINF:0,SILK SPORT 2
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
 
+#EXTINF:0,SILK SPORT 3
+rtmp://edge01-03.nl.myvideo.ge/dvrh264/silk_sport2/mp4:silk_sport2 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
 
 #EXTINF:0,SPORTSNET 360
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF:0,SPORTSNET WORLD
-rtmp://178.18.31.61:443/liverepeater playpath=190903 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=183055&width=620&height=490 token=#atd%#$ZH
-
-#EXTINF:0,SPORTSNET ONTARIO
-rtmp://109.123.70.38:80/live/ playpath=sno token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
 
 #EXTINF:0,MOLDOVA SPORT
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
