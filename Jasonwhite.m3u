@@ -31,8 +31,8 @@ rtmp://178.18.31.62:443/liverepeater playpath=191271  swfUrl=http://bernardotv.c
 #EXTINF:0,BT SPORTS 2 HD
 rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:0,SETANTA
-http://202.75.23.36/live/ch44/03.m3u8
+#EXTINF:0,SETANTA IRELAND
+rtmp://167.114.117.208/live/sentav
 
 #EXTINF:0,ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports
@@ -102,7 +102,7 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_MOTORSTV/variant.m3u8?version=2
 
 #EXTINF:0,BOX NATION
-rtmp://178.18.31.51:443/liverepeater playpath=185624 swfUrl=http://bernardotv.club/fuckingcopy.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php?id=185624&width=620&height=490 token=#atd%#$ZH timeout=10
+rtmp://167.114.117.208/live/skynationv
 
 #EXTINF:0,RACING UK
 rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11
