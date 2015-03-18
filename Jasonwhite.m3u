@@ -29,7 +29,7 @@ http://198.27.94.105/hls/skysportsnews____0.m3u8
 rtmp://178.18.31.62:443/liverepeater playpath=191271  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191271&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:0,BT SPORTS 2 HD
-rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co
+rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
 
 #EXTINF:0,SETANTA
 http://202.75.23.36/live/ch44/03.m3u8
@@ -43,14 +43,14 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports
 #EXTINF:0,ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
 
-#EXTINF:-1,BeinSport 1 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/1.ts
-#EXTINF:-1,BeinSport 2 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/2.ts
+#EXTINF:-1,BeinSport 1 HD
+http://2co1.vp9.tv/chn/bin01/v.m3u8
+#EXTINF:-1,BeinSport 2 HD
+http://2co1.vp9.tv/chn/bin02/v.m3u8
 #EXTINF:-1,BeinSport 3 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
 http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/3.ts
-#EXTINF:-1,BeinSport 4 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/4.ts
+#EXTINF:-1,BeinSport 4 HD
+http://115.146.126.226/chn/bin04/v.m3u8
 #EXTINF:-1,BeinSport 5 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
 http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/5.ts
 #EXTINF:-1,BeinSport 6 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
