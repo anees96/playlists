@@ -10,7 +10,6 @@ rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash
 
 #EXTINF:0,SKY SPORTS 2 HD
 rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s
-
 #EXTINF:0,SKY SPORTS 3 HD
 rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s
 
@@ -126,11 +125,20 @@ rtmp://31.220.0.195:80/live/ playpath=premiersport token=%Zrey(nKa@#Z swfUrl=htt
 #EXTINF:0,MLB
 rtmp://31.220.0.195:80/live/ playpath=mlbxx token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
 
-#EXTINF:0,ASTRO SUPERSPORT 1
-http://stream.ssh101.com/hls/nomoretears.m3u8
+#EXTINF:0,ARENASPORT 1
+http://89.212.240.49:11980/live/smil:365_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 
-#EXTINF:0,ASTRO SUPERSPORT 2
-http://stream.ssh101.com/hls/tipkek.m3u8
+#EXTINF:0,ARENASPORT 2
+http://89.212.240.49:11980/live/smil:366_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+
+#EXTINF:0,ARENASPORT 3
+http://89.212.240.49:11980/live/smil:367_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+
+#EXTINF:0,ARENASPORT 4
+http://89.212.240.49:11980/live/smil:368_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+
+#EXTINF:0,ARENASPORT 5
+http://89.212.240.49:11980/live/smil:369_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 
 #EXTINF:0,SILK SPORT 1
 rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
