@@ -5,31 +5,32 @@ nuclei.tv
 #EXTINF:-1,[COLOR red]***ONLY TO BE USED ON 2 DEVICES***[/COLOR]
 nuclei.tv
 
-#EXTINF:0,SKY SPORTS 1 HD
-rtmp://167.114.117.208/live/sky1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky1.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:0,SKY SPORTS 1
+http://198.27.94.105/hls/skysports1____1.m3u8
 
-#EXTINF:0,SKY SPORTS 2 HD
-rtmp://167.114.117.208/live/sky2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky2.php live=true timeout=20 token=WY846p1E1g15W7s
-#EXTINF:0,SKY SPORTS 3 HD
-rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:0,SKY SPORTS 2
+http://198.27.94.105/hls/skysports2____1.m3u8
 
-#EXTINF:0,SKY SPORTS 4 HD
-rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s
+#EXTINF:0,SKY SPORTS 3
+http://198.27.94.105/hls/skysports3____1.m3u8
 
-#EXTINF:0,SKY SPORTS 5 HD
-rtmp://80.82.64.140:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH
+#EXTINF:0,SKY SPORTS 4
+http://198.27.94.105/hls/skysports4____1.m3u8
+
+#EXTINF:0,SKY SPORTS 5
+http://198.27.94.105/hls/skysports5____1.m3u8
 
 #EXTINF:0,SKY SPORTS F1 HD
 rtmp://80.82.78.15:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:0,SKY SPORTS NEWS HD
-http://198.27.94.105/hls/skysportsnews____0.m3u8
+#EXTINF:0,SKY SPORTS NEWS
+http://198.27.94.105/hls/skysportsnews____1.m3u8
 
 #EXTINF:0,BT SPORTS 1 HD
-rtmp://178.18.31.62:443/liverepeater playpath=191271  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191271&width=620&height=490 token=#atd%#$ZH
+http://198.27.94.105/hls/bt1____1.m3u8
 
 #EXTINF:0,BT SPORTS 2 HD
-rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
+http://198.27.94.105/hls/bt2____1.m3u8
 
 #EXTINF:0,SETANTA IRELAND
 rtmp://167.114.117.208/live/sentav
@@ -53,8 +54,8 @@ http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/3.ts
 http://115.146.126.226/chn/bin04/v.m3u8
 #EXTINF:-1,BeinSport 5 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
 http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/5.ts
-#EXTINF:-1,BeinSport 6 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/6.ts
+#EXTINF:-1,BeinSport 6 HD 
+http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?simpletvipadresleri3
 #EXTINF:-1,BeinSport 7 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
 http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/7.ts
 #EXTINF:-1,BeinSport 8 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
