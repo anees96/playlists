@@ -33,7 +33,7 @@ rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.
 rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports2.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,SETANTA IRELAND
-rtmp://167.114.117.208/live/sentav
+rtmp://167.114.117.208/live/sentav swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/20.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports
