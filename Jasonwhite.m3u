@@ -6,31 +6,31 @@ nuclei.tv
 nuclei.tv
 
 #EXTINF:0,SKY SPORTS 1
-http://198.27.94.105/hls/skysports1____1.m3u8
+rtmp://93.158.217.202:80/live/ playpath=sx2 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
 
 #EXTINF:0,SKY SPORTS 2
-http://198.27.94.105/hls/skysports2____1.m3u8
+rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://reytv.co/
 
 #EXTINF:0,SKY SPORTS 3
-http://198.27.94.105/hls/skysports3____1.m3u8
+rtmp://167.114.117.208/live/sky3v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skydarts.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,SKY SPORTS 4
-http://198.27.94.105/hls/skysports4____1.m3u8
+rtmp://173.193.197.46/flash playpath=20586?MTQyNjU0Mzg4MTs0NTQ1NjhhZTI0MGYyN2RiODczY2UyYzJiMWQyZWE3Mg==  swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/k3MTA3YjlmNGEwNTI0Y2ViNTRhNA__/c3M1eDo0MGY4ZTZjMWNkYzk0NmU4MTQzYmFmYWJiNGEwYWY2Mjo4NjdiNzIyNjAwOD
 
 #EXTINF:0,SKY SPORTS 5
-http://198.27.94.105/hls/skysports5____1.m3u8
+tmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky5.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,SKY SPORTS F1 HD
-rtmp://80.82.78.15:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
+rtmp://178.18.31.65:443/liverepeater playpath=191293  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191293&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:0,SKY SPORTS NEWS
-http://198.27.94.105/hls/skysportsnews____1.m3u8
+rtmp://167.114.117.208/live/skynewsv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/skynews.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,BT SPORTS 1 HD
-http://198.27.94.105/hls/bt1____1.m3u8
+rtmp://167.114.117.208/live/bt1v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports1.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,BT SPORTS 2 HD
-http://198.27.94.105/hls/bt2____1.m3u8
+rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports2.php live=true timeout=20 token=WY846p1E1g15W7s
 
 #EXTINF:0,SETANTA IRELAND
 rtmp://167.114.117.208/live/sentav
