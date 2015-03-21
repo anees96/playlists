@@ -177,17 +177,8 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:0,SPORT TIME 7 HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
 
-#EXTINF:-1,PAC 12 Arizona HD
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-
-#EXTINF:-1,Pac 12 Arizona HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-
 #EXTINF:-1,PAC 12 Bay Area HD
 http://www.xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1,Pac 12 Bay Area
-http://xrxs.net/video/live-p12baya-2328.m3u8
 
 #EXTINF:0,ROSSIYA 2 SPORTS
 http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
