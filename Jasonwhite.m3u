@@ -178,8 +178,6 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:0,KTV SPORT PLUS
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
-#EXTINF:0,BAHRAIN SPORT
-rtmp://alayam.netromedia.net/btv3/btv3
 
 #EXTINF:0,TRT SPOR
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
