@@ -44,36 +44,34 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports
 #EXTINF:0,ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
 
-#EXTINF:-1,BeinSport 1 HD
-http://2co1.vp9.tv/chn/bin01/v.m3u8
-#EXTINF:-1,BeinSport 2 HD
-http://2co1.vp9.tv/chn/bin02/v.m3u8
-#EXTINF:-1,BeinSport 3 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/3.ts
-#EXTINF:-1,BeinSport 4 HD
-http://115.146.126.226/chn/bin04/v.m3u8
-#EXTINF:-1,BeinSport 5 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/5.ts
-#EXTINF:-1,BeinSport 6 HD 
-http://hls01-06.az.myvideo.az/hls-live/livepkgr/sport6/sport6/sport6.m3u8?simpletvipadresleri3
-#EXTINF:-1,BeinSport 7 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/7.ts
-#EXTINF:-1,BeinSport 8 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/8.ts
-#EXTINF:-1,BeinSport 9 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/9.ts
-#EXTINF:-1,BeinSport 10 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/10.ts
-#EXTINF:-1,BeinSport 11 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/11.ts
-#EXTINF:-1,BeinSport 12 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/12.ts
-#EXTINF:-1,BeinSport 13 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/13.ts
-#EXTINF:-1,BeinSport 14 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/14.ts
-#EXTINF:-1,BeinSport 15 HD [COLOR red]TAKES A WHILE TO LOAD[/COLOR]
-http://srvt.topiptv.org:8000/live/Royal/Skype:Micro2me/15.ts
+#‎EXTINF‬:1,Bein_1_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/61.ts
+#EXTINF:1,Bein_2_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/62.ts
+#EXTINF:1,Bein_3_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/63.ts
+#EXTINF:1,Bein_4_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/64.ts
+#EXTINF:1,Bein_5_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/65.ts
+#EXTINF:1,Bein_6_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/66.ts
+#EXTINF:1,Bein_7_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/67.ts
+#EXTINF:1,Bein_8_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/68.ts
+#EXTINF:1,Bein_9_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/69.ts
+#EXTINF:1,Bein_10_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/70.ts
+#EXTINF:1,Bein_11_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/71.ts
+#EXTINF:1,Bein_12_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/72.ts
+#EXTINF:1,Bein_13_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/73.ts
+#EXTINF:1,Bein_15_HD
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/75.ts
 
 #EXTINF:0,TSN 1 HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
