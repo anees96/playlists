@@ -166,12 +166,6 @@ http://www.xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:0,ROSSIYA 2 SPORTS
 http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
 
-#EXTINF:0,AD SPORTS 1 HD (UAE)
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
-
-#EXTINF:0,AD SPORTS 2 HD (UAE)
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
-
 #EXTINF:0,DUBAI RACING (UAE)
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
 
