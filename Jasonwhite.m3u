@@ -15,7 +15,7 @@ rtmp://178.18.31.53:443/liverepeater playpath=191375  swfUrl=http://bernardotv.c
 rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://reytv.co/
 
 #EXTINF:0,SKY SPORTS 4
-rtmp://167.114.117.208/live/sky4v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/sky4.php live=true timeout=20 token=WY846p1E1g15W7s
+rtmp://31.220.0.195:80/live/ playpath=ssx4 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/
 
 #EXTINF:0,SKY SPORTS 5
 rtmp://178.18.31.65:443/liverepeater playpath=191293  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191293&width=620&height=490 token=#atd%#$ZH
