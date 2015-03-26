@@ -9,7 +9,7 @@ nuclei.tv
 rtmp://178.18.31.62:443/liverepeater playpath=191349  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191349&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:0,SKY SPORTS 2
-rtmp://178.18.31.53:443/liverepeater playpath=191375  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191375&width=620&height=490 token=#atd%#$ZH
+http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/180.ts
 
 #EXTINF:0,SKY SPORTS 3
 rtmp://31.220.0.195:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13  pageUrl=http://reytv.co/
@@ -30,10 +30,7 @@ rtmp://31.220.0.195:80/live/ playpath=snc token=%Zrey(nKa@#Z swfUrl=http://p.jwp
 rtmp://178.18.31.62:443/liverepeater playpath=191271  swfUrl=http://bernardotv.club/fuckingcopy.swf  pageUrl=http://biggestplayer.me/streamcr.php?id=191271&width=620&height=490 token=#atd%#$ZH
 
 #EXTINF:0,BT SPORTS 2 HD
-rtmp://167.114.117.208/live/bt2v swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/btsports2.php live=true timeout=20 token=WY846p1E1g15W7s
-
-#EXTINF:0,SETANTA IRELAND
-http://109.200.20.26:8981/FHDsetanta1/set/index.m3u8
+plugin://plugin.video.p2p-streams/?url=acestream://a7c44134c28dd2183d341f52044326c2c061f1d6&mode=1&name=acestream+BT SPORTS 2
 
 #EXTINF:0,ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?moneysports
@@ -45,33 +42,35 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?moneysports
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
 
 #‎EXTINF‬:1,Bein_1_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/61.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_1
 #EXTINF:1,Bein_2_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/62.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_2
 #EXTINF:1,Bein_3_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/63.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_3
 #EXTINF:1,Bein_4_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/64.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_4
 #EXTINF:1,Bein_5_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/65.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_5
 #EXTINF:1,Bein_6_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/66.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_6
 #EXTINF:1,Bein_7_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/67.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_7
 #EXTINF:1,Bein_8_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/68.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_8
 #EXTINF:1,Bein_9_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/69.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_9
 #EXTINF:1,Bein_10_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/70.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_10
 #EXTINF:1,Bein_11_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/71.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_11
 #EXTINF:1,Bein_12_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/72.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_12
 #EXTINF:1,Bein_13_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/73.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_13
+#EXTINF:1,BEIN_14_HD
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_14
 #EXTINF:1,Bein_15_HD
-http://62.210.87.116:8883/live/SM003/5RBWfAOCG8/75.ts
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_15
 
 #EXTINF:0,TSN 1 HD
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
