@@ -44,7 +44,7 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?moneysports
 #‎EXTINF‬:1,Bein_1_HD
 rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_1
 #EXTINF:1,Bein_2_HD
-rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_2
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_12
 #EXTINF:1,Bein_3_HD
 rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/bein_sport_3
 #EXTINF:1,Bein_4_HD
